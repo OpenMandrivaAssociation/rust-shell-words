@@ -5,8 +5,8 @@
 %global crate shell-words
 
 Name:           rust-%{crate}
-Version:        0.1.0
-Release:        7%{?dist}
+Version:        1.1.1
+Release:        1%{?dist}
 Summary:        Process command line according to parsing rules of UNIX shell
 
 # Upstream license specification: MIT/Apache-2.0
